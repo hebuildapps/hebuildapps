@@ -10,7 +10,7 @@ Fellow @starknet @lovableshipped @TheResidency @buildspace
 
 Based in Pune.
 
-**Live projects:** [Archyve](https://archyve.xyz) • [MeTTaPay](https://dub.sh/mettapay)
+**Live projects:** [Nemo OS](https://nemo-os.vercel.app) [Expense OS](http://expense-os-pi.vercel.app/)
 
 **Reach me:** [X](https://twitter.com/intent/follow?screen_name=hebuildapps) • [LinkedIn](https://www.linkedin.com/in/heramb-salunkhe/) • [heramb.icu](https://heramb.icu) 
 
