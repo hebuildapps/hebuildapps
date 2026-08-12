@@ -18,4 +18,4 @@ Based in Pune.
 <br/> 
 **[X](https://twitter.com/intent/follow?screen_name=hebuildapps) • [LinkedIn](https://www.linkedin.com/in/heramb-salunkhe/) • [heramb.icu](https://heramb.icu)**
 
-[![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=hebuildapps&issues=false&repos=false&following=false&include_all_commits=true)]
+![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=hebuildapps&issues=false&repos=false&following=false&include_all_commits=true)
